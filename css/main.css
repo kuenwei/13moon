@@ -56,6 +56,7 @@ h4,
 h5,
 h6 {
     font-family: var(--font-title);
+    line-height: 1.7em;
 }
 
 /* Partial: Colors */
@@ -220,12 +221,14 @@ h6 {
     margin-bottom: 1.75rem;
 }
 
-.content .markdown > h5 {
+.content .markdown > h5, .content .markdown > h5 > a {
     font-size: 1.0rem;
     margin-top: -10px !important;
     line-height: 1.0 !important;
     font-family: var(--font-content);
     text-align: center;
+    color: var(--main-font-color) !important;
+    border: 0px !important;
 }
 .content .markdown > h5:before {
   content: '\0021E7';
@@ -329,6 +332,60 @@ h6 {
     opacity: 0.8;
     display: block;
     padding: 1em 2em;
+}
+
+.content .markdown .youtubeaudio {
+    display:block;
+    justify-content:center;
+    align-items:center;
+}
+
+.content .markdown .youtubeaudio > div {
+    display: flex;
+    max-width: 90%;
+    width: auto;
+    min-height: 85px;
+    height:auto;
+    border: 1px solid;
+    border-radius: 0 1em 0 1rem;
+    margin: auto;
+
+}
+
+.content .markdown .youtubeaudio > div > div {
+    height: auto;
+    margin: auto 0.1em;
+    clear:both;
+    margin-right: 0.5rem;
+    text-align:left;
+    line-height: 1.5em !important;
+}
+
+.content .markdown .youtubeaudio > div > div > a {
+    border-bottom: 0px !important;
+    padding-bottom: 0 !important;
+    color: var(--main-font-color);
+}
+
+.content .markdown .youtubeaudio > p {
+    max-width: 95%;
+    font-size: 0.8rem;
+    margin-top: 3px;
+    line-height: 1rem;
+    text-align: right;
+    color: #cecece;
+}
+
+.content .markdown .youtubeaudio:after {
+    content: "The audio player is created with the YouTube API.";
+    max-width: 95%;
+    font-size: 0.6rem;
+    margin-top: 0px;
+    line-height: 1rem;
+    text-align: right;
+    color: #dedede;
+    position: absolute;
+    right: 5%;
 }
 
 .content .posts > ul, .content .posts > ul > li {
