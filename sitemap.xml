@@ -1,64 +1,117 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin51-blue-crystal-monkey/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <loc>http://example.com/categories/art/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/article/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <loc>http://example.com/tags/asian/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <loc>http://example.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin47-blue-galactich-hand/</loc>
-    <lastmod>2019-08-28T00:00:00+00:00</lastmod>
+    <loc>http://example.com/tags/drawing/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin46-white-resonant-worldbridger/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+    <loc>http://example.com/blog/drawings/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin45-red-rhythmic-serpent/</loc>
-    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+    <loc>http://example.com/tags/foie-gras/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin44-yellow-overtone-seed/</loc>
-    <lastmod>2019-08-25T00:00:00+00:00</lastmod>
+    <loc>http://example.com/blog/food/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin43-blue-self-existing-night/</loc>
-    <lastmod>2019-08-24T00:00:00+00:00</lastmod>
+    <loc>http://example.com/categories/food/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin42-white-electric-wind/</loc>
-    <lastmod>2019-08-23T00:00:00+00:00</lastmod>
+    <loc>http://example.com/tags/human/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin41-red-lunar-dragon/</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+    <loc>http://example.com/blog/statues/humans/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin40-yellow-magnetic-sun/</loc>
-    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+    <loc>http://example.com/blog/food/moo-moo/</loc>
   </url>
   
   <url>
-    <loc>https://ww.housekitchen.co/series/</loc>
+    <loc>http://example.com/blog/drawings/music/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/music/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/statues/others/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/pho/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/drawings/random/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/salad/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/seafood/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/food/no-photos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/soup/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/statue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/statues/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/blog/food/vietnam/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/vietnam/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/western/</loc>
   </url>
   
 </urlset>

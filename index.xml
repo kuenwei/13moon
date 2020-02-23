@@ -1,94 +1,77 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>任性工作室</title>
-    <link>https://ww.housekitchen.co/</link>
-    <description>Recent content on 任性工作室</description>
+    <title>Resto Hugo - Port of resto theme for hugo</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Resto Hugo - Port of resto theme for hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <language>zh-TW</language>
+    <copyright>&amp;copy 2020 wwhousekitchen</copyright>
     
-	<atom:link href="https://ww.housekitchen.co/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>13月亮曆探索 260 - Kin 51 水晶藍猴</title>
-      <link>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin51-blue-crystal-monkey/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <title>Human Statues</title>
+      <link>http://example.com/blog/statues/humans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin51-blue-crystal-monkey/</guid>
-      <description>圖片來源：myTzolkin.com 2019.9.1 Kin 51 水晶藍猴 當看到藍猴圖騰的時候，我的腦中直接浮出快樂玩耍的畫面。好像有一隻猴子在我面前，抓頭搔癢，帶</description>
+      <guid>http://example.com/blog/statues/humans/</guid>
+      <description>Description: Statues from Cham museum in Da Nang, Vietnam.</description>
     </item>
     
     <item>
-      <title>13月亮曆探索 260 - Kin 47 銀河藍手</title>
-      <link>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin47-blue-galactich-hand/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      <title>MOO MOO</title>
+      <link>http://example.com/blog/food/moo-moo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin47-blue-galactich-hand/</guid>
-      <description>圖片來源：myTzolkin.com 2019.8.28 Kin 47 銀河藍手 有時候我會有突發奇想，曾經也想過，如果失去雙手，我的生活應該會很不方便吧！每每想到這個話題</description>
+      <guid>http://example.com/blog/food/moo-moo/</guid>
+      <description>Description: Some food from Moo Moo Steak house in Saigon.</description>
     </item>
     
     <item>
-      <title>13月亮曆探索 260 - Kin 46 共振白橋</title>
-      <link>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin46-white-resonant-worldbridger/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Music</title>
+      <link>http://example.com/blog/drawings/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin46-white-resonant-worldbridger/</guid>
-      <description>圖片來源：myTzolkin.com 2019.8.27 Kin 46 共振白橋 看著白橋，會令人有一種恬靜的感覺。那是一種不急不徐的幽靜，卻又帶著悠然前行的力量，好像一葉</description>
+      <guid>http://example.com/blog/drawings/music/</guid>
+      <description>Music drawings&amp;hellip;</description>
     </item>
     
     <item>
-      <title>13月亮曆探索 260 - Kin 45 韻律紅蛇</title>
-      <link>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin45-red-rhythmic-serpent/</link>
-      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Other Statues</title>
+      <link>http://example.com/blog/statues/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin45-red-rhythmic-serpent/</guid>
-      <description>圖片來源：myTzolkin.com 2019.8.26 Kin 45 韻律紅蛇 其實我蠻怕動物的，蛇當然也不例外。對我來說的蛇，是一條冷冰冰但又具有攻擊性的生物，他是變溫</description>
+      <guid>http://example.com/blog/statues/others/</guid>
+      <description>Description: Statues from Cham museum in Da Nang, Vietnam.</description>
     </item>
     
     <item>
-      <title>13月亮曆探索 260 - Kin 44 超頻黃種子</title>
-      <link>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin44-yellow-overtone-seed/</link>
-      <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Random</title>
+      <link>http://example.com/blog/drawings/random/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin44-yellow-overtone-seed/</guid>
-      <description>圖片來源：myTzolkin.com 2019.8.25 Kin 44 超頻黃種子 當我們想要種植一棵植物，第一件事情是埋下一顆種子，然後細心的呵護與照料他。 之前我把《當和</description>
+      <guid>http://example.com/blog/drawings/random/</guid>
+      <description>Drawing(s)&amp;hellip;</description>
     </item>
     
     <item>
-      <title>13月亮曆探索 260 - Kin 43 自我存在藍夜</title>
-      <link>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin43-blue-self-existing-night/</link>
-      <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Some post</title>
+      <link>http://example.com/blog/food/no-photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin43-blue-self-existing-night/</guid>
-      <description>圖片來源：myTzolkin.com 2019.8.24 Kin 43 自我存在藍夜 就像一個隱者，靜靜地待在帳篷之中，透過那打開的門去凝視篷外的場景。內部是如此恬靜，但卻</description>
+      <guid>http://example.com/blog/food/no-photos/</guid>
+      <description>Description: This is just a simple post with no photos&amp;hellip; Hence it doesn&#39;t have to be a bundle and can be a simple &amp;ldquo;md&amp;rdquo; file.</description>
     </item>
     
     <item>
-      <title>13月亮曆探索 260 - Kin 42 電力白風</title>
-      <link>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin42-white-electric-wind/</link>
-      <pubDate>Fri, 23 Aug 2019 00:00:00 +0000</pubDate>
+      <title>Vietnam</title>
+      <link>http://example.com/blog/food/vietnam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin42-white-electric-wind/</guid>
-      <description>圖片來源：myTzolkin.com 2019.8.23 Kin 42 電力白風 風，給人一種悠然自得的感覺。那是一種恬靜，一分自在，好似要主動出擊，卻又覺得擁有等待的耐心</description>
-    </item>
-    
-    <item>
-      <title>13月亮曆探索 260 - Kin 41 月亮紅龍</title>
-      <link>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin41-red-lunar-dragon/</link>
-      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin41-red-lunar-dragon/</guid>
-      <description>圖片來源：myTzolkin.com 2019.8.22 Kin 41 月亮紅龍 紅龍是個太陽紋章（Solar Seal）的第一個，也帶來了原始的能量，因為原始的如同大地一樣</description>
-    </item>
-    
-    <item>
-      <title>13月亮曆探索 260 - Kin 40 磁性黃太陽</title>
-      <link>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin40-yellow-magnetic-sun/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ww.housekitchen.co/article/daily-13moon-dreamspell-kin40-yellow-magnetic-sun/</guid>
-      <description>圖片來源：myTzolkin.com 2019.8.21 Kin 40 磁性黃太陽 看到黃太陽的符號時，會感覺到很平衡的感覺，整個符號左右對稱、重量相同，就好像太陽想要傳達</description>
+      <guid>http://example.com/blog/food/vietnam/</guid>
+      <description>Description: Food from different places in Saigon.</description>
     </item>
     
   </channel>
